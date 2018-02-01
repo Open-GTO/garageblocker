@@ -1,5 +1,5 @@
 # Garage Blocker
-SA-MP 0.3.8+ garage blocker library.
+SA-MP 0.3.DL garage blocker library.
 
 Thanks to [BeckzyBoi](forum.sa-mp.com/member.php?u=5303) for data: http://forum.sa-mp.com/showthread.php?t=645807.
 
